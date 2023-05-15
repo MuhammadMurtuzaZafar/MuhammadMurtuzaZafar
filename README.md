@@ -11,11 +11,9 @@
 
 - 👯 I’m looking to collaborate on **HBL Currency Exchange**
 
-- 🤝 I’m looking for help with **Al Mandoob Delivery App**
-
 - 👨‍💻 All of my projects are available at [https://github.com/MuhammadMurtuzaZafar](https://github.com/MuhammadMurtuzaZafar)
 
-- 📝 I regularly write articles on [https://medium.com/@murtza.zafar12345](https://medium.com/@murtza.zafar12345)
+- 📝 I am write articles on [https://medium.com/@murtza.zafar12345](https://medium.com/@murtza.zafar12345)
 
 - 💬 Ask me about **Java, Kotlin, Dart, Flutter**
 
@@ -31,7 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad murtuza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad murtuza" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammad murtuza](https://www.linkedin.com/in/muhammad-murtuza-mobile-app-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad murtuza" height="30" width="40" /></a>
 <a href="https://medium.com/@murtza.zafar12345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@murtza.zafar12345" height="30" width="40" /></a>
 </p>
 
