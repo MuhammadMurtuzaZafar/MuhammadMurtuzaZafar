@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Murtuza</h1>
-<h3 align="center">Skilled Mobile App Developer Hailing from Pakistan, Driven by a Passion for Excellence</h3>
+<h3 align="center">Skilled Software Engineer Hailing from Pakistan, Driven by a Passion for Excellence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadmurtuzazafar&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadmurtuzazafar" /> </p>
 
