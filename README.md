@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Envicrete**
 
-- 🌱 I’m currently learning **Artificial Inteligence**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 👯 I’m looking to collaborate on **HBL Currency Exchange**
 
@@ -15,7 +15,7 @@
 
 - 📝 I am write articles on [https://medium.com/@murtza.zafar12345](https://medium.com/@murtza.zafar12345)
 
-- 💬 Ask me about **Java, Kotlin, Dart, Flutter**
+- 💬 Ask me about **Java, Kotlin, Dart, and Flutter**
 
 - 📫 How to reach me **murtza.zafar12345@gmail.com**
 
