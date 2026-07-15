@@ -1,160 +1,232 @@
 <h1 align="center">Hi 👋, I'm Muhammad Murtuza</h1>
 
 <h3 align="center">
-AI/ML Engineer | Generative AI | RAG | Multi-Agent Systems | Computer Vision | MLOps
+AI/ML Engineer | Generative AI | Agentic AI | RAG | Multi-Agent Systems | Computer Vision | MLOps
 </h3>
 
 <p align="center">
-Building production-ready AI systems that solve real-world enterprise problems.
+Building enterprise AI solutions with LLMs, Agentic AI, Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), and Computer Vision.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=MuhammadMurtuzaZafar&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm an AI/ML Engineer from Pakistan with 4+ years of experience developing scalable AI applications across FinTech, Compliance, Enterprise Knowledge Management, and Computer Vision.
+I'm an AI/ML Engineer with 4+ years of experience building production-ready AI systems across FinTech, Enterprise Automation, Compliance, Computer Vision, and Knowledge Management.
 
-Currently working on:
-
-- 🤖 Enterprise Generative AI
-- 🧠 Retrieval-Augmented Generation (RAG)
-- 🔥 Multi-Agent AI Systems
-- 📚 LangChain & LangGraph
-- ⚡ FastAPI AI Services
-- ☁️ AWS Cloud Deployment
-- 📊 Data Analytics & Machine Learning
-- 👁️ Computer Vision using YOLO
+My expertise includes designing scalable AI architectures using LLMs, RAG, Multi-Agent Systems, LangGraph, MCP, and MLOps to solve complex enterprise challenges.
 
 ---
 
-## 💼 Current Role
+## 🔭 Currently Working On
 
-**AI/ML Engineer**
-TPS Worldwide
-
-Working on enterprise AI solutions including:
-
-- Enterprise Knowledge Chatbots
-- AI Assistants
-- Mastercard Compliance Automation
-- MCP Servers
-- LLM Integrations
-- Intelligent Document Processing
-- Production AI APIs
+- 🤖 Autonomous Incident Management System
+- 🧠 Enterprise Multi-Agent AI Systems
+- 📚 Retrieval-Augmented Generation (RAG)
+- ⚡ LangGraph Workflows
+- 🔗 Model Context Protocol (MCP)
+- ☁️ AWS & MLOps
+- 📊 AI-Powered Enterprise Automation
 
 ---
 
-## 🎓 Education
+# 💼 Professional Experience
 
-🎓 Master of Artificial Intelligence (MSAI)
-NED University of Engineering & Technology
+### AI/ML Engineer
+**TPS Worldwide**
 
-🎓 Bachelor of Computer Science (BSCS)
-Iqra University
+Building enterprise AI solutions including:
 
----
-
-## 🚀 Featured Projects
-
-### 🧠 ChatTPS
-Enterprise RAG chatbot built using LangChain, FAISS and OpenAI.
-
----
-
-### 💳 Mastercard Consultant
-
-AI-powered compliance validation system with automated code generation using:
-
-- Pinecone
-- FAISS
-- LangChain
-- OpenAI
+- Enterprise AI Assistants
+- Retrieval-Augmented Generation (RAG)
+- MCP Servers & Clients
+- AI Agents
+- Compliance Automation
+- Intelligent Search Systems
+- LLM Applications
+- Computer Vision Solutions
 
 ---
 
-### 📚 User Manual RAG
+# 🚀 Featured Projects
 
-Intelligent documentation assistant capable of semantic search across manuals and developer documentation.
+## 🚨 Autonomous Incident Management System
 
----
+Enterprise autonomous incident investigation platform powered by **LangGraph** and Multi-Agent AI.
 
-### 📊 Customer Behavioral Analysis
+### Features
 
-Machine Learning project analyzing customer personas and transaction behaviour for business insights.
+- Multi-Agent architecture using LangGraph
+- Drain3-based log template extraction
+- Vector Search (FAISS) for anomaly correlation
+- Intelligent anomaly detection pipeline
+- Root Cause Analysis Agent
+- Incident Summarization Agent
+- GitHub MCP integration for source code retrieval
+- Code Review Graph MCP for project-wide code understanding
+- Automatic dependency and impact analysis
 
----
+**Tech Stack**
 
-### 📈 Continuous Performance Management (CPM)
-
-AI-powered performance monitoring and analytics platform.
-
----
-
-### 🖥 Tableau MCP Server
-
-Model Context Protocol (MCP) server enabling LLM interaction with Tableau.
-
----
-
-### 👁 Sleep Detection System
-
-Real-time computer vision solution using YOLO and OpenCV.
+`LangGraph` `LangChain` `OpenAI` `Drain3` `FAISS` `FastAPI` `GitHub MCP`
 
 ---
 
-### ✈ Airplane Crash Detection
+## 🔗 CPM MCP Server & Client
 
-Deep learning based object detection system.
+Enterprise Model Context Protocol platform for employee performance and KPI analytics.
+
+### Features
+
+- Custom OAuth 2.0 & JWT authentication
+- Custom MCP Server
+- Custom MCP Client
+- Jira MCP integration
+- Confluence MCP integration
+- Elasticsearch integration
+- Attendance analytics
+- Leave management
+- KPI evaluation
+- Jira SLA breach monitoring
+- AI-powered enterprise assistant
+
+**Tech Stack**
+
+`Python` `FastAPI` `JWT` `OAuth2` `MCP` `Elasticsearch` `Jira` `Confluence`
 
 ---
 
-## 🛠 Tech Stack
+## 💳 Mastercard Consultant
 
-### 🤖 Artificial Intelligence
+AI-powered compliance validation platform for Mastercard implementations.
+
+### Features
+
+- Automated compliance validation
+- AI-assisted code generation
+- Semantic search using Vector Databases
+- Enterprise documentation assistant
+
+**Tech Stack**
+
+`LangChain` `OpenAI` `Pinecone` `FAISS`
+
+---
+
+## 📚 ChatTPS
+
+Enterprise Retrieval-Augmented Generation (RAG) chatbot for developer documentation.
+
+### Features
+
+- Semantic document search
+- API documentation assistant
+- Internal knowledge base
+- Context-aware question answering
+
+---
+
+## 📖 User Manual RAG
+
+AI-powered documentation assistant capable of searching enterprise manuals and technical documentation using Retrieval-Augmented Generation.
+
+---
+
+## 📊 Customer Behavioral Analysis
+
+Machine Learning solution for customer segmentation and behavioral analytics.
+
+- Exploratory Data Analysis
+- Customer Persona Identification
+- Business Intelligence
+- Predictive Analytics
+
+---
+
+## 📈 Continuous Performance Management (CPM)
+
+Enterprise AI solution for continuous employee performance monitoring and KPI tracking.
+
+---
+
+## 📊 Tableau MCP Server
+
+Custom Model Context Protocol server enabling LLMs to interact with Tableau dashboards and analytics.
+
+---
+
+## 👁️ Sleep Detection System
+
+Real-time fatigue detection system using Computer Vision.
+
+- YOLO
+- OpenCV
+- Deep Learning
+
+---
+
+## ✈️ Airplane Crash Detection
+
+Deep Learning-based aircraft crash detection using Computer Vision.
+
+---
+
+## 💱 HBL Currency Exchange
+
+Cross-platform Flutter application for currency exchange and financial services.
+
+---
+
+# 🛠️ Technical Skills
+
+## Artificial Intelligence
 
 - Generative AI
-- LLM Applications
-- Prompt Engineering
+- Agentic AI
 - Retrieval-Augmented Generation (RAG)
 - AI Agents
-- MCP
-- A2A
-- Vector Databases
+- Multi-Agent Systems
+- Prompt Engineering
+- LLM Fine-Tuning
+- Model Context Protocol (MCP)
 
-### 🧠 Machine Learning
-
-- Scikit-Learn
-- XGBoost
-- MLflow
-- Computer Vision
-- YOLOv5
-- YOLOv8
-
-### 📚 LLM Frameworks
+## LLM Frameworks
 
 - LangChain
 - LangGraph
 - CrewAI
-- PydanticAI
-- HuggingFace
+- Hugging Face
 - OpenAI
-- Mistral
-- DeepSeek
 - Llama
+- DeepSeek
+- Mistral
 - BERT
+- PydanticAI
 
-### ⚙ Backend
+## Machine Learning
+
+- Scikit-learn
+- XGBoost
+- MLflow
+- YOLOv5
+- YOLOv8
+- OpenCV
+
+## Backend
 
 - Python
 - FastAPI
 - REST APIs
 - Docker
-- Kubernetes (Basic)
+- Kubernetes
 - Apache Airflow
 - Kafka
-- Camunda
 
-### ☁ Cloud
+## Cloud
 
 - AWS EC2
 - ECS
@@ -162,67 +234,82 @@ Deep learning based object detection system.
 - Lambda
 - S3
 
-### 📊 Data
+## Databases
 
-- Pandas
-- NumPy
-- SQL
-- Tableau
-- Power BI
-
----
-
-## 🌱 Currently Learning
-
-- Agentic AI
-- Model Context Protocol (MCP)
-- AI Engineering
-- Advanced MLOps
-- LlamaIndex
-- n8n AI Automation
+- PostgreSQL
+- MySQL
+- Elasticsearch
+- Pinecone
+- FAISS
 
 ---
 
-## 📜 Certifications
+# 🌱 Currently Learning
 
-- Microsoft AI Engineer (In Progress)
+- Advanced Agentic AI
+- AI Operating Systems
+- Large Language Models
+- Distributed AI Agents
+- Enterprise MCP Ecosystem
+
+---
+
+# 🎓 Education
+
+🎓 **Master of Artificial Intelligence (MSAI)**  
+NED University of Engineering & Technology
+
+🎓 **Bachelor of Computer Science (BSCS)**  
+Iqra University
+
+---
+
+# 📜 Certifications
+
+- Microsoft AI Engineer *(In Progress)*
 - LangChain & LangGraph
 - CrewAI Multi-Agent Systems
 - n8n AI Automation
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-📧 Email
+📧 **Email**  
 murtuza.tps@gmail.com
 
-💼 LinkedIn
-https://www.linkedin.com/in/muhammad-murtuza/
+💼 **LinkedIn**  
+https://www.linkedin.com/in/muhammad-murtuza-software-engineer/
 
-💻 GitHub
+💻 **GitHub**  
 https://github.com/MuhammadMurtuzaZafar
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadMurtuzaZafar&show_icons=true&theme=tokyonight"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMurtuzaZafar&layout=compact&theme=tokyonight"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMurtuzaZafar&theme=tokyonight"/>
-
 </p>
 
 ---
 
-## 💡 Quote
+# 💡 Interests
 
-> "Building AI that delivers measurable business value—not just demos."
+- 🤖 Agentic AI
+- 🧠 Large Language Models
+- 🔗 Model Context Protocol (MCP)
+- 🚀 Enterprise AI Platforms
+- 📊 Data Analytics
+- 👁️ Computer Vision
+- ☁️ Cloud AI
+- ⚙️ MLOps
+
+---
+
+> **"Building intelligent AI systems that solve real enterprise challenges through automation, reasoning, and scalable architecture."**
