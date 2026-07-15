@@ -16,7 +16,7 @@ Building enterprise AI solutions with LLMs, Agentic AI, Retrieval-Augmented Gene
 
 # 🚀 About Me
 
-I'm an AI/ML Engineer with 4+ years of experience building production-ready AI systems across FinTech, Enterprise Automation, Compliance, Computer Vision, and Knowledge Management.
+I'm an AI/ML Engineer with 5+ years of experience building production-ready AI systems across FinTech, Enterprise Automation, Compliance, Computer Vision, and Knowledge Management.
 
 My expertise includes designing scalable AI architectures using LLMs, RAG, Multi-Agent Systems, LangGraph, MCP, and MLOps to solve complex enterprise challenges.
 
